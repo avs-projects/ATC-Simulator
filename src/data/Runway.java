@@ -3,8 +3,6 @@ package data;
 /**
  * 
  * This class represents a runway airport.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class Runway {

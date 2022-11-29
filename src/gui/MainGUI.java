@@ -18,8 +18,6 @@ import process.SimulationUtility;
 /**
  * 
  * The air trafic control simulation main gui.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class MainGUI extends JFrame implements Runnable {

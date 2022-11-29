@@ -6,8 +6,6 @@ import data.Obstacle;
 /**
  * 
  * This class allows an obstacle construction.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class ObstacleBuilder {

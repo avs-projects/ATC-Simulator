@@ -7,8 +7,6 @@ import java.util.ArrayList;
  * This class represents an airport where the aircraft can land or take off.
  * 
  * An airport has runways that will each be managed.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class Airport {

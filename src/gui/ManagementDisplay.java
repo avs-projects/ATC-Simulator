@@ -23,8 +23,6 @@ import process.SimulationUtility;
 /**
  * 
  * This class contains all airports and its runways.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 

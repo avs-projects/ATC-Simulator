@@ -6,8 +6,6 @@ import java.util.ArrayList;
  * 
  * The flight represents the way to go for an aircraft.
  * 
- * @author VAZ SILVA Alexandre
- *
  */
 public class Flight {
 

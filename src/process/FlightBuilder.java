@@ -7,8 +7,6 @@ import data.Flight;
 /**
  * 
  * This class allows an flight construction.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class FlightBuilder {

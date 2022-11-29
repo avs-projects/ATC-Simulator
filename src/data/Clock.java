@@ -3,8 +3,6 @@ package data;
 /**
  * 
  * This class represents a clock with its minute and hour.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class Clock {

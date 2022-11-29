@@ -8,8 +8,6 @@ import data.Obstacle;
  * 
  * This class is a block controller. It controls the entry and the exit of each
  * aircraft in a block.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class BlockManager {

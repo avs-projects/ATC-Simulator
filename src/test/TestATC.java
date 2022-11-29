@@ -5,8 +5,6 @@ import gui.MainGUI;
 /**
  * 
  * The air trafic control manuel test class.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class TestATC {

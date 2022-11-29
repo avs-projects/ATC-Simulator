@@ -5,8 +5,6 @@ import java.util.ArrayList;
 /**
  * 
  * This class represents an quadrilateral obstacle.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class Obstacle {

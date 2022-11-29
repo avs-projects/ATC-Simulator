@@ -11,8 +11,6 @@ import data.Flight;
 /**
  * 
  * This class allows an aircraft construction.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class AircraftBuilder {

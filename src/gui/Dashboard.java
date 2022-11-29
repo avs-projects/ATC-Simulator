@@ -24,8 +24,6 @@ import process.Simulation;
  * 
  * This class is the panel in which each airport, aircraft, flight and obstacle
  * are printed.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 

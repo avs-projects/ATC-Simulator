@@ -7,8 +7,6 @@ import config.Configuration;
 /**
  * 
  * This utility class contains util functions used by the simulation.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class SimulationUtility {

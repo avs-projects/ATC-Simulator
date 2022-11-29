@@ -5,8 +5,6 @@ package data;
  * This class represents a block of the map.
  * 
  * Each aircraft has a block in position.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class Block {

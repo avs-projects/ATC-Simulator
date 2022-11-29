@@ -5,8 +5,6 @@ import process.SimulationUtility;
 /**
  * 
  * This class represents an aircraft for a particular flight.
- * 
- * @author VVAZ SILVA Alexandre
  *
  */
 public class Aircraft {

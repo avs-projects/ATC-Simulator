@@ -5,8 +5,6 @@ import java.util.ArrayList;
 /**
  * 
  * This class is a map made up of blocks.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class Map {

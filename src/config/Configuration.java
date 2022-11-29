@@ -3,8 +3,6 @@ package config;
 /**
  * 
  * This class is the simulation configuration.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 import data.Airport;

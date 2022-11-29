@@ -17,9 +17,7 @@ import data.Runway;
 /**
  * 
  * The simulation management class. Its contains and prepares all BlockManager
- * and all AircraftManaer.
- * 
- * @author VAZ SILVA Alexandre
+ * and all AircraftManager.
  *
  */
 public class Simulation {

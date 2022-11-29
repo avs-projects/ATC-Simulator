@@ -23,7 +23,7 @@ Import the project and run as TestATC.
 
 # Author 
 
-- Alexandre VAZ SILVA
+- Alexandre VAZ SILVA, CHOUAF Samy and Frédéric VO
 
 # Other 
 

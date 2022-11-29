@@ -10,8 +10,6 @@ import data.Runway;
  * 
  * This class is the train controller. Each instance represents an aircraft on a
  * block flight.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 

@@ -18,8 +18,6 @@ import data.Runway;
 /**
  * 
  * This class is the panel in which each runway and airport are printed.
- * 
- * @author VAZ SILVA Alexandre
  *
  */
 public class AirportDashboard extends JPanel {
