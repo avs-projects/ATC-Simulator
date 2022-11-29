@@ -1,14 +1,14 @@
 # ATC Simulator
 
-# Project Description
+## Project Description
 
 Java program who simulate an ATC and use multithreading, you can see each plane and their information, create an emergency on flight who push the plane to land at the nearest airport.
 
 See : video folder
 
-# How to run the project 
+## How to run the project 
 
-## Linux terminal
+### Linux terminal
 
 run 
 
@@ -17,15 +17,16 @@ javac src/test/TestATC.java
 java TestATC
 ```
 
-## Eclipse
+### Eclipse
 
 Import the project and run as TestATC.
 
-# Author 
+## Author 
 
 - Alexandre VAZ SILVA, CHOUAF Samy and Frédéric VO
 
-# Other 
+## Other 
 
 Project level : L3
+
 Date : 2021
